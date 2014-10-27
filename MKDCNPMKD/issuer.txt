@@ -1,1 +1,0 @@
-issuer= /C=ZA/O=Thawte Consulting (Pty) Ltd./CN=Thawte SGC CA
